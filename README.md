@@ -3,30 +3,30 @@
 
 Регистрация на сайте
 
-![image](https://github.com/stanislav1800/images/blob/582f889f0977eb6886d84923f0c88b912e0189dc/2023-01-09_21-05-42.png)
+![2023-01-09_21-05-42](https://github.com/stanislav1800/web_application/assets/77958472/78488aab-a483-41f4-969b-cbc25a7d338e)
 
 Авторизация на сайте
 
-![image](https://github.com/stanislav1800/images/blob/9761399ac711d07c004609e58a440b4e87fd557f/2023-01-09_21-11-58.png)
+![2023-01-09_21-11-58](https://github.com/stanislav1800/web_application/assets/77958472/b40b305d-326d-4137-bc68-fe5eb95ab235)
 
 Список зарегистрированных преподавателей
 
-![image](https://github.com/stanislav1800/images/blob/9761399ac711d07c004609e58a440b4e87fd557f/2023-01-09_21-12-23.png)
+![2023-01-09_21-12-23](https://github.com/stanislav1800/web_application/assets/77958472/787e71d4-579c-408f-9392-cf20162f7705)
 
 Профиль преподавателя
 
-![image](https://github.com/stanislav1800/images/blob/9761399ac711d07c004609e58a440b4e87fd557f/2023-01-09_21-12-44.png)
+![2023-01-09_21-12-44](https://github.com/stanislav1800/web_application/assets/77958472/8a2b6943-0a77-487d-8fd6-547c2cca29a0)
 
 Профиль авторизированного пользователя
 
-![image](https://github.com/stanislav1800/images/blob/9761399ac711d07c004609e58a440b4e87fd557f/2023-01-09_21-13-41.png)
+![2023-01-09_21-13-41](https://github.com/stanislav1800/web_application/assets/77958472/1526fe33-510e-40fe-876d-32e3ba88980a)
 
 Добавление файлов
 
-![image](https://github.com/stanislav1800/images/blob/9761399ac711d07c004609e58a440b4e87fd557f/2023-01-09_21-14-09.png)
+![2023-01-09_21-14-09](https://github.com/stanislav1800/web_application/assets/77958472/bd046ccd-88b0-4292-9a14-f849fef990b1)
 
 Вопросы к преподавателю
 
-![image](https://github.com/stanislav1800/images/blob/9761399ac711d07c004609e58a440b4e87fd557f/2023-01-09_21-16-43.png)
+![2023-01-09_21-16-43](https://github.com/stanislav1800/web_application/assets/77958472/543b0b6b-d21a-4e25-b5e6-aa16c0e05d49)
 
 
